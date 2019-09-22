@@ -6,5 +6,6 @@ This repository contains the code for all the programming tasks of the Mathemati
 
 * [Identifying Special Matrices](linear-algebra/IdentifyingSpecialMatrices.ipynb)
 * [Gram-Schmidt Process](linear-algebra/GramSchmidtProcess.ipynb)
+* [Reflecting Bear](linear-algebra/ReflectingBear.ipynb)
 
 All the courses about this specialiaztion can be found [here](https://www.coursera.org/specializations/mathematics-machine-learning)

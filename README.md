@@ -11,7 +11,7 @@ This repository contains the code for all the programming tasks of the Mathemati
 
 ## Multivariate Calculus ([link](https://www.coursera.org/learn/multivariate-calculus-machine-learning))
 
-* [The Sandpit](multivariate-calculus/The+Sandpit.ipynb)
+<!-- * [The Sandpit](multivariate-calculus/The+Sandpit.ipynb) -->
 
 All the courses about this specialiaztion can be found [here](https://www.coursera.org/specializations/mathematics-machine-learning)
 

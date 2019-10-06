@@ -9,4 +9,10 @@ This repository contains the code for all the programming tasks of the Mathemati
 * [Reflecting Bear](linear-algebra/ReflectingBear.ipynb)
 * [Page Rank](linear-algebra/PageRank.ipynb)
 
+## Multivariate Calculus ([link](https://www.coursera.org/learn/multivariate-calculus-machine-learning))
+
+* [The Sandpit](multivariate-clculus/The+Sandpit.ipynb)
+
 All the courses about this specialiaztion can be found [here](https://www.coursera.org/specializations/mathematics-machine-learning)
+
+

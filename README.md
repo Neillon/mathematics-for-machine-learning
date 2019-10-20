@@ -12,6 +12,7 @@ This repository contains the code for all the programming tasks of the Mathemati
 ## Multivariate Calculus ([link](https://www.coursera.org/learn/multivariate-calculus-machine-learning))
 
 * [Backpropagation](multivariate-calculus/Backpropagation.ipynb)
+* [Fitting the distribution of heights data](multivariate-calculus/Fitting+the+distribution+of+heights+data.ipynb)
 
 All the courses about this specialiaztion can be found [here](https://www.coursera.org/specializations/mathematics-machine-learning)
 

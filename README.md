@@ -14,6 +14,10 @@ This repository contains the code for all the programming tasks of the Mathemati
 * [Backpropagation](multivariate-calculus/Backpropagation.ipynb)
 * [Fitting the distribution of heights data](multivariate-calculus/Fitting+the+distribution+of+heights+data.ipynb)
 
+## PCA ([link](https://www.coursera.org/learn/pca-machine-learning))
+
+* [Mean/covariance of a dataset + effect of a linear transformation](pca/week_1.ipynb)
+
 All the courses about this specialiaztion can be found [here](https://www.coursera.org/specializations/mathematics-machine-learning)
 
 

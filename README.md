@@ -18,6 +18,7 @@ This repository contains the code for all the programming tasks of the Mathemati
 
 * [Mean/covariance of a dataset + effect of a linear transformation](pca/week_1.ipynb)
 * [Distances and Angles between Images](pca/week_2.ipynb)
+* [Orthogonal Projections](pca/week_3.ipynb)
 
 All the courses about this specialiaztion can be found [here](https://www.coursera.org/specializations/mathematics-machine-learning)
 
